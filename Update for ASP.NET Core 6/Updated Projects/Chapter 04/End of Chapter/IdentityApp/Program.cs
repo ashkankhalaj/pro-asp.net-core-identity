@@ -24,10 +24,13 @@ builder.Services.AddDbContext<IdentityDbContext>(opts => {
         opts => opts.MigrationsAssembly("IdentityApp")
     );
 });
+
+builder.Services.AddScoped<IEmailSender, ConsoleEmailSender>();
+
 builder.Services.AddDefaultIdentity<IdentityUser>()
     .AddEntityFrameworkStores<IdentityDbContext>();
 
-builder.Services.AddScoped<IEmailSender, ConsoleEmailSender>();
+
 
 var app = builder.Build();
 
