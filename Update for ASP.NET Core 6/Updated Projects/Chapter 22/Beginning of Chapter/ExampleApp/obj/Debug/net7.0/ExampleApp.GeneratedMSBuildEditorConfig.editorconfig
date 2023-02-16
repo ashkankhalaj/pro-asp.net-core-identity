@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ExampleApp
+build_property.RootNamespace = ExampleApp
+build_property.ProjectDir = C:\Users\Ashkan\Source\Repos\pro-asp.net-core-identity\Update for ASP.NET Core 6\Updated Projects\Chapter 22\Beginning of Chapter\ExampleApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ashkan\Source\Repos\pro-asp.net-core-identity\Update for ASP.NET Core 6\Updated Projects\Chapter 22\Beginning of Chapter\ExampleApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/AuthenticatorSetup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRvclNldHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Full2FARequired.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVsbDJGQVJlcXVpcmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/LiveClaims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGl2ZUNsYWltcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Secret.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjcmV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Shared/_AuthorizationReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BdXRob3JpemF0aW9uUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/SignInRecoveryCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbkluUmVjb3ZlcnlDb2RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/SignInTwoFactor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbkluVHdvRmFjdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/SignOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbk91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/Claims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcQ2xhaW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/EmailPhoneChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcRW1haWxQaG9uZUNoYW5nZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/EmailPhoneConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcRW1haWxQaG9uZUNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/PasswordChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcUGFzc3dvcmRDaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/PasswordReset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcUGFzc3dvcmRSZXNldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/PasswordResetConfirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcUGFzc3dvcmRSZXNldENvbmZpcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/RecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcUmVjb3ZlcnlDb2Rlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/RoleClaims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcUm9sZUNsYWltcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/Roles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcUm9sZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/UserLockouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcVXNlckxvY2tvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/UserRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcVXNlclJvbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/_ClaimsRow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX0NsYWltc1Jvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/_EditUserBasic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX0VkaXRVc2VyQmFzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/_EditUserCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX0VkaXRVc2VyQ3VzdG9tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/_EditUserEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX0VkaXRVc2VyRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/_EditUserPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX0VkaXRVc2VyUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/_EditUserPhone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX0VkaXRVc2VyUGhvbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/_EditUserSecurityStamp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX0VkaXRVc2VyU2VjdXJpdHlTdGFtcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/_EditUserTwoFactor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX0VkaXRVc2VyVHdvRmFjdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Store/_UserTableRow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX1VzZXJUYWJsZVJvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/VerySecret.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyeVNlY3JldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Views/Home/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ashkan/Source/Repos/pro-asp.net-core-identity/Update for ASP.NET Core 6/Updated Projects/Chapter 22/Beginning of Chapter/ExampleApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

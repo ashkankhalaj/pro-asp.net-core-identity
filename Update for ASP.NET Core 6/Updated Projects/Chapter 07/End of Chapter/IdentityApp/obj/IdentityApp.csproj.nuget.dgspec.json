@@ -47,41 +47,41 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.Facebook": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.AspNetCore.Authentication.Google": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.AspNetCore.Authentication.Twitter": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[7.0.3, )"
             }
           },
           "imports": [

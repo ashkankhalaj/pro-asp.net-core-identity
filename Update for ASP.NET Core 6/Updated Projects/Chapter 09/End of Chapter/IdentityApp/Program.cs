@@ -11,7 +11,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<ProductDbContext>(opts => {
     opts.UseSqlServer(
-        builder.Configuration["ConnectionStrings:AppDataConnection"]);
+        builder.Configuration["ConnectionStrings:AppDataConnection"],
+        options => options.EnableRetryOnFailure());
 });
 
 builder.Services.AddHttpsRedirection(opts => {
@@ -21,7 +22,12 @@ builder.Services.AddHttpsRedirection(opts => {
 builder.Services.AddDbContext<IdentityDbContext>(opts => {
     opts.UseSqlServer(
         builder.Configuration["ConnectionStrings:IdentityConnection"],
-        opts => opts.MigrationsAssembly("IdentityApp")
+                opts =>
+                {
+                    opts.MigrationsAssembly("IdentityApp");
+                    opts.EnableRetryOnFailure();
+
+                }
     );
 });
 
